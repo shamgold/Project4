@@ -4,9 +4,15 @@ Shamber Goldstein | March 13, 2020 | B ME 450 | Project 4: Hydrophone
 
 ## Introduction:
 
-This projeProject 4's goal is to analyze noise in the ocean from wind, rain, mammal vocalization, air guns, and a volcanic eruption or earthquake [1]. These noises are possible to evaluate through the use of a hydrophone, "a passive acoustic sensor (an underwater microphone) that converts sound energy to electrical energy, with a binary stream output" [2]. The hydrophone raw data was extracted from the Ocean Obervatories Initiative website [3] which allows the user to select an instrument, location, depth, date, and time for data collection. Part 1 of the project is to analyze the power spectral density for the wind and rain readings at times when it is windy and not rainy, rainy and not windy, windy and rainy, and not windy or rainy. Plotting this against frequency, allows the user to analyze the effect of rain and wind on underwater noise. These plots are to be made for the Oregon shelf site and the Oregon offshore site. Part 2 of the project is to plot spectograms for times in the hydrophone data at any location that there is a marine mammal vocalization, and air gun noise, and a volcano eruption or earthquake, then compare their bandwidths with what is shown on the Wenz Curve (Figure 12). 
+This projeProject 4's goal is to analyze noise in the ocean from wind, rain, mammal vocalization, air guns, and a volcanic eruption or earthquake [1]. These noises are possible to evaluate through the use of a hydrophone, "a passive acoustic sensor (an underwater microphone) that converts sound energy to electrical energy, with a binary stream output" [2]. The hydrophone raw data was extracted from the Ocean Obervatories Initiative (OOI) website [3] which allows the user to select an instrument, location, depth, date, and time for data collection. Part 1 of the project is to analyze the power spectral density (PSD) for the wind and rain readings at times when it is windy and not rainy, rainy and not windy, windy and rainy, and not windy or rainy. Plotting this against frequency, allows the user to analyze the effect of rain and wind on underwater noise. These plots are to be made for the Oregon shelf site and the Oregon offshore site. Part 2 of the project is to plot spectograms for times in the hydrophone data at any location that there is a marine mammal vocalization, and air gun noise, and a volcano eruption or earthquake, then compare their bandwidths with what is shown on the Wenz Curve (Figure 12). 
 
 ## Approach:
+
+I began this project by importing in any neccessary packages. For this project, this included installing obspy. Using !pip to install obspy was not working on my computer, so I had to install it in my terminal using Homebrew. After installing obspy and the other necessary packages for the project, I began Part 1. 
+
+I started Part 1 by creating a function that plots the power spectral density for each of the sites and time periods. The function uses the read in data to create a sampling rate as well as sliced portions of the data. It then uses this to calculate the PSD using Equation 1. The PSD and frequency were then normalized and converted as necessary for plotting by using Equation 2. Finally, the function plots the PSD converted to db and normalized against the normalized frequency. For each site and time period, their code read in the according hydrophone data then call the previously mentioned function with this the data as the input. The code would also individually title the plot with the according location and weather condition.
+
+
 
 ## Results/Plots:
 
@@ -57,6 +63,12 @@ Compare the bandwidth of the three signals in Part 2. Are they consistent with w
 
 Figure 12: Wenz Curve (for Reference)
 ![alt text](https://github.com/shamgold/Project4/blob/master/Wentz-ambient-jm2013-600.png "Wenz Curve")
+
+Equation 1: PSD
+![alt text](https://github.com/shamgold/Project4/blob/master/Screen%20Shot%202020-03-12%20at%203.16.14%20PM.png "PSD Equation")
+
+Equation 2: PSD Normalization and Conversion
+![alt text](https://github.com/shamgold/Project4/blob/master/Screen%20Shot%202020-03-12%20at%203.18.47%20PM.png "PSD Norm and Conv")
 
 [1] Shima Abadi. In Class Lecture – Ocean Noise. [26 Feb. 2020].
 
