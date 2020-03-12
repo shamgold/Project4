@@ -37,13 +37,13 @@ Figure 8: Power Spectral Density vs. Frequency for Oregon Offshore: Windy and Ra
 Figure 9: Power Spectral Density vs. Frequency for Oregon Offshore: Not Windy or Rainy
 ![alt text](html "label")
 
-Figure 1: Marine Mammal Vocalization Spectogram
+Figure 10: Marine Mammal Vocalization Spectogram
 ![alt text](html "label")
 
-Figure 1: Air Gun Noise Spectogram
+Figure 11: Air Gun Noise Spectogram
 ![alt text](html "label")
 
-Figure 1: Volcano Eruption/Earthquake Spectogram
+Figure 12: Volcano Eruption/Earthquake Spectogram
 ![alt text](html "label")
 
 ## Analysis/Conclusions:
