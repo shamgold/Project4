@@ -14,28 +14,28 @@ Figure 1: Wenz Curve
 ![alt text](https://github.com/shamgold/Project4/blob/master/Wentz-ambient-jm2013-600.png "Wenz Curve")
 
 Figure 2: Power Spectral Density vs. Frequency for Oregon Shelf: Rainy, not Windy
-![alt text](html "label")
+![alt text](https://github.com/shamgold/Project4/blob/master/Screen%20Shot%202020-03-12%20at%202.41.20%20PM.png "R, n W, Shelf")
 
 Figure 3: Power Spectral Density vs. Frequency for Oregon Shelf: Windy, not Rainy
-![alt text](html "label")
+![alt text](https://github.com/shamgold/Project4/blob/master/Screen%20Shot%202020-03-12%20at%202.41.37%20PM.png "W, n R, Shelf")
 
 Figure 4: Power Spectral Density vs. Frequency for Oregon Shelf: Windy and Rainy
-![alt text](html "label")
+![alt text](https://github.com/shamgold/Project4/blob/master/Screen%20Shot%202020-03-12%20at%202.41.48%20PM.png "W, R, Shelf")
 
 Figure 5: Power Spectral Density vs. Frequency for Oregon Shelf: Not Windy or Rainy
-![alt text](html "label")
+![alt text](https://github.com/shamgold/Project4/blob/master/Screen%20Shot%202020-03-12%20at%202.42.01%20PM.png "n W, n R, Shelf")
 
 Figure 6: Power Spectral Density vs. Frequency for Oregon Offshore: Rainy, not Windy
-![alt text](html "label")
+![alt text](https://github.com/shamgold/Project4/blob/master/Screen%20Shot%202020-03-12%20at%202.42.14%20PM.png "R, n W, Offshore")
 
 Figure 7: Power Spectral Density vs. Frequency for Oregon Offshore: Windy, not Rainy
-![alt text](html "label")
+![alt text](https://github.com/shamgold/Project4/blob/master/Screen%20Shot%202020-03-12%20at%202.42.29%20PM.png "W, n R, Offshore")
 
 Figure 8: Power Spectral Density vs. Frequency for Oregon Offshore: Windy and Rainy
-![alt text](html "label")
+![alt text](https://github.com/shamgold/Project4/blob/master/Screen%20Shot%202020-03-12%20at%202.42.41%20PM.png "W, R, Offshore")
 
 Figure 9: Power Spectral Density vs. Frequency for Oregon Offshore: Not Windy or Rainy
-![alt text](html "label")
+![alt text](https://github.com/shamgold/Project4/blob/master/Screen%20Shot%202020-03-12%20at%202.42.54%20PM.png "n W, n R, Offshore")
 
 Figure 10: Marine Mammal Vocalization Spectogram
 ![alt text](html "label")
