@@ -53,9 +53,11 @@ Figure 11: Volcano Eruption/Earthquake Spectogram
 
 What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result. 
 
-Which one has the highestimpact? Rain or wind?
+Which one has the highest impact? Rain or wind?
 
-What arethe main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore? 
+What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore? 
+
+The two sites are located in the same general locations but have very different depths. The Oregon shelf instrument has a depth of 80 m while the Oregon offshore instrument has a depth of 580 m. This means that looking at the effect of noise from rain and wind at these locations shows how these noises effect the ocean at shallow and deep depths. 
 
 Compare the bandwidth of the three signals in Part 2. Are they consistent with what is shown in the Wenz curve?
 
