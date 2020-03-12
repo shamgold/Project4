@@ -10,9 +10,9 @@ This projeProject 4's goal is to analyze noise in the ocean from wind, rain, mam
 
 I began this project by importing in any neccessary packages. For this project, this included installing obspy. Using !pip to install obspy was not working on my computer, so I had to install it in my terminal using Homebrew. After installing obspy and the other necessary packages for the project, I began Part 1. 
 
-I started Part 1 by creating a function that plots the power spectral density for each of the sites and time periods. The function uses the read in data to create a sampling rate as well as sliced portions of the data. It then uses this to calculate the PSD using Equation 1. The PSD and frequency were then normalized and converted as necessary for plotting by using Equation 2. Finally, the function plots the PSD converted to db and normalized against the normalized frequency. For each site and time period, their code read in the according hydrophone data then call the previously mentioned function with this the data as the input. The code would also individually title the plot with the according location and weather condition.
+I started Part 1 by creating a function that plots the power spectral density for each of the sites and time periods. Time periods were determined based on the results of Project 2 [5] which displayed when each location had the weather patterns mentioned in the introduction. The function uses the read in data to create a sampling rate as well as sliced portions of the data. It then uses this to calculate the PSD using Equation 1. The PSD and frequency were then normalized and converted as necessary for plotting by using Equation 2. Finally, the function plots the PSD converted to db and normalized against the normalized frequency. For each site and time period, their code read in the according hydrophone data then call the previously mentioned function with this the data as the input. The code would also individually title the plot with the according location and weather condition.
 
-
+I began Part 2 with a function that plots a spectogram for each set of hydrophone data. It begins similarly to the function in Part 1, by creating sampling rates and slices of the data. The slices and sampling rates are used to calculate the overlap and the number of fast Fourier transform points (nFFT). It then uses the slices, nFFT, the sampling rates, and the number of overlap points in the built in mlab spectogram call to create data for the spectogram, frequency, and time. The spectogram data is then normalized and the three componenets are plotted together along with a colorbar key. This is the end of the function. For each noise evaluated in this part, their individual code reads in their data and calls the function to produce the spectogram. The code would also individually title the spectogram with the according noise source.
 
 ## Results/Plots:
 
@@ -77,3 +77,5 @@ Equation 2: PSD Normalization and Conversion
 [3] Ocean Observatories Initiative. 2020. HYDBBA. [online] Available at: <https://oceanobservatories.org/instrument-series/hydbba/> [Accessed 12 March 2020].
 
 [4] Discovery of Sound in the Sea. 2020. What Are Common Underwater Sounds?. [online] Available at: <https://dosits.org/science/sounds-in-the-sea/what-are-common-underwater-sounds/> [Accessed 12 March 2020].
+
+[5] Project 2: https://github.com/shamgold/Project-2
