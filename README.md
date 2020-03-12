@@ -58,7 +58,10 @@ Compare the bandwidth of the three signals in Part 2. Are they consistent with w
 Figure 12: Wenz Curve (for Reference)
 ![alt text](https://github.com/shamgold/Project4/blob/master/Wentz-ambient-jm2013-600.png "Wenz Curve")
 
-[1] Lecture
-[2] https://oceanobservatories.org/instrument-class/hydbb/ 
-[3] https://oceanobservatories.org/instrument-series/hydbba/
-[4] https://dosits.org/science/sounds-in-the-sea/what-are-common-underwater-sounds/
+[1] Shima Abadi. In Class Lecture – Ocean Noise. [26 Feb. 2020].
+
+[2] Ocean Observatories Initiative. 2020. HYDBB. [online] Available at: <https://oceanobservatories.org/instrument-class/hydbb/> [Accessed 12 March 2020].
+
+[3] Ocean Observatories Initiative. 2020. HYDBBA. [online] Available at: <https://oceanobservatories.org/instrument-series/hydbba/> [Accessed 12 March 2020].
+
+[4] Discovery of Sound in the Sea. 2020. What Are Common Underwater Sounds?. [online] Available at: <https://dosits.org/science/sounds-in-the-sea/what-are-common-underwater-sounds/> [Accessed 12 March 2020].
