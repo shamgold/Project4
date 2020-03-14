@@ -48,7 +48,7 @@ Figure 10: Airgun Noise Spectogram
 
 Figure 11: Earthquake Spectogram                                   
 
-![alt text](html "earthquake")
+![alt text](https://github.com/shamgold/Project4/blob/master/Screen%20Shot%202020-03-13%20at%206.56.35%20PM.png "earthquake")
 
 ## Analysis/Conclusions:
 
