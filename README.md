@@ -53,11 +53,15 @@ Figure 11: Earthquake Spectogram
 
 What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result. 
 
+At the Shelf site, in shallower water, when rain or wind are heavy independantly of each other they appear to increase the PSD of the noise in the water. However, when they occur at the same time they don't have much of an effect. In the deeper water, at the Offshore site, the rain and wind don't appear to effect the overall level of PSD. Instead they seem to decrease the range of values, centralizing them closer to the mean at each frequency range.
+
 Which one has the highest impact? Rain or wind?
+
+Rain appears to have a higher impact on underwater noise. At the Oregon Shelf site, the rain increases the PSD underwater much more than the wind does. At the Oregon offshore site, the wind doesn't appear to change much while the rain decreases the range of PSD values while keeping the mean level about the same.
 
 What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore? 
 
-The two sites are located in the same general locations but have very different depths. The Oregon shelf instrument has a depth of 80 m while the Oregon offshore instrument has a depth of 580 m. This means that looking at the effect of noise from rain and wind at these locations shows how these noises effect the ocean at shallow and deep depths. 
+The two sites are located in the same general locations but have very different depths. The Oregon shelf instrument has a depth of 80 m while the Oregon offshore instrument has a depth of 580 m. This means that looking at the effect of noise from rain and wind at these locations shows how these noises effect the ocean at shallow and deep depths. This can be important when evaluating how noise could effect life underwater at different depths.
 
 Compare the bandwidth of the three signals in Part 2. Are they consistent with what is shown in the Wenz curve?
 
