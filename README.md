@@ -68,10 +68,10 @@ Compare the bandwidth of the three signals in Part 2. Are they consistent with w
 
 ## References:
 
-Figure 12: Wenz Curve (for Reference)
+Figure 12: Wenz Curve                                 
 ![alt text](https://github.com/shamgold/Project4/blob/master/Wentz-ambient-jm2013-600.png "Wenz Curve")
 
-Equation 1: PSD
+Equation 1: PSD                                   
 ![alt text](https://github.com/shamgold/Project4/blob/master/Screen%20Shot%202020-03-12%20at%203.16.14%20PM.png "PSD Equation")
 
 Equation 2: PSD Normalization and Conversion
