@@ -52,21 +52,21 @@ Figure 11: Earthquake Spectogram
 
 ## Analysis/Conclusions:
 
-What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result. 
+##### What is the effect of wind and rain on underwater noise? Explain any behavior you observe in your result. 
 
 At the Shelf site, in shallower water, when rain or wind are heavy independantly of each other they appear to increase the PSD of the noise in the water. However, when they occur at the same time they don't have much of an effect. In the deeper water, at the Offshore site, the rain and wind don't appear to effect the overall level of PSD. Instead they seem to decrease the range of values, centralizing them closer to the mean at each frequency range.
 
 Determining a correlation between the individual effects of wind and rain on noise is difficult with my data set due to the different findings in the locations. However, through online research I was able to find a more clear answer: rain and wind increase the PSD underwater. I was also able to look more in depth online and I found that there's a exponential trend where lower frequencies increase with wind speed, while higher frequencies increase slightly or remain the same [7]. This research allowed me to attribute the increase in lower frequencies in the Oregon Shelf: Windy but not Rainy plot to the increased wind speed. I also found that rain noise is a result of drops hitting the surface as well as the bubbles they create and depends on the bubble size. Smaller drops produce high frequency noise in the range of 13-25 kHz and large drops make noise as low as 1 kHz[8]. This explains the spikes between 10 and 15 kHz on the Oregon Shelf plots with rainfall. 
 
-Which one has the highest impact? Rain or wind?
+##### Which one has the highest impact? Rain or wind?
 
 Rain appears to have a higher impact on underwater noise. At the Oregon Shelf site, the rain increases the PSD underwater much more than the wind does. At the Oregon offshore site, the wind doesn't appear to change much while the rain decreases the range of PSD values while keeping the mean level about the same. Rain also creates spikes in certain frequencies, the increase in PSD isn't as significant and only affects that frequency as opposed to the entire curve.
 
-What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore? 
+##### What are the main reasons for observing different spectral levels in Oregon shelf compared to Oregon offshore? 
 
 The two sites are located in the same general locations but have very different depths. The Oregon shelf instrument has a depth of 80 m while the Oregon offshore instrument has a depth of 580 m. This means that looking at the effect of noise from rain and wind at these locations shows how these noises effect the ocean at shallow and deep depths. This can be important when evaluating how noise could effect life underwater at different depths.
 
-Compare the bandwidth of the three signals in Part 2. Are they consistent with what is shown in the Wenz curve?
+##### Compare the bandwidth of the three signals in Part 2. Are they consistent with what is shown in the Wenz curve?
 
 The marine mammal vocalization signal reached above 2 kHz, the airgun was lower at up to 200 Hz, and the earthquake was only up to 100 Hz. The Wenz curve (Figure 12) shows the frequency ranges of various sources of ocean noise. Marine mammal vocalization falls under the "biologics" category which hich extends from 10 Hz to 100,000 Hz. My data for a marine mammal call falls into the range. Airgun sounds most likely fall under the industrial activity category, which ranges from 10 Hz to 10,000 Hz. My airgun data fits in this range. It should be noted however, that the SPL of the airgun blasts are beyond the that of industrial and ship noise. This is likely because airgun blasts are intentionally designed to be extraordinarily loud, compared to ships and drilling rigs which may have acoustic dampening measures in place. Earthquakes, which are individually labeled in the Wenz curve, range from 0 to 100 Hz with a peak SPL of over 120 dB at 10 Hz. This fits perfectly with my data, which has peaks of 128 dB between 0 and 40 Hz. Therefore, according all of my signal bandwidths are consistent with what is shown on the Wenz Curve.
 
