@@ -40,13 +40,13 @@ Figure 7: Power Spectral Density vs. Frequency for Oregon Offshore: Windy and Ra
 Figure 8: Power Spectral Density vs. Frequency for Oregon Offshore: Not Windy or Rainy
 ![alt text](https://github.com/shamgold/Project4/blob/master/Screen%20Shot%202020-03-13%20at%205.13.13%20PM.png "n W, n R, Offshore")
 
-Figure 9: Marine Mammal Vocalization Spectogram
+Figure 9: Marine Mammal Vocalization Spectrogram
 ![alt text](https://github.com/shamgold/Project4/blob/master/Screen%20Shot%202020-03-13%20at%206.24.58%20PM.png "mammal vocalization")
 
-Figure 10: Airgun Noise Spectogram                                  
+Figure 10: Airgun Noise Spectrogram                                  
 ![alt text](https://github.com/shamgold/Project4/blob/master/Screen%20Shot%202020-03-13%20at%206.25.09%20PM.png "airgun noise")
 
-Figure 11: Earthquake Spectogram                                   
+Figure 11: Earthquake Spectrogram                                   
 
 ![alt text](https://github.com/shamgold/Project4/blob/master/Screen%20Shot%202020-03-13%20at%206.56.35%20PM.png "earthquake")
 
